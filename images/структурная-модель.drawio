@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2024-01-14T19:06:20.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="k8_5bm8E3-bsRRIJxLZ6" version="22.1.18" type="device">
+  <diagram name="Страница — 1" id="pRM3mmNhBH-lvjWTs7dp">
+    <mxGraphModel dx="1091" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-7" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-8" value="звук (речь)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="302" width="120" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-9" value="Кабинет (воздушная&amp;nbsp;среда)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-11" value="Директор школы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-12" value="Шум электро-чайника" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-13" value="Шум кондици-онера" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-15" value="" style="curved=1;endArrow=block;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dm_hwzvT9pQDAtZLTbbe-12" target="Dm_hwzvT9pQDAtZLTbbe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="380" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-16" value="" style="curved=1;endArrow=block;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dm_hwzvT9pQDAtZLTbbe-13" target="Dm_hwzvT9pQDAtZLTbbe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="410" as="sourcePoint" />
+            <mxPoint x="550" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="380" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-17" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="680" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-18" value="стена" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-25" value="звук (речь)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="302" width="120" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-26" value="Улица (воздушная&amp;nbsp;среда)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-27" value="Шум &lt;br&gt;улицы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="661" y="400" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-29" value="" style="curved=1;endArrow=block;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dm_hwzvT9pQDAtZLTbbe-27" target="Dm_hwzvT9pQDAtZLTbbe-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="611" y="430" as="sourcePoint" />
+            <mxPoint x="661" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="691" y="380" />
+              <mxPoint x="741" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-31" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="801" y="339.6" as="sourcePoint" />
+            <mxPoint x="841" y="339.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-32" value="Нарушитель" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="861" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="841" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Dm_hwzvT9pQDAtZLTbbe-35" target="Dm_hwzvT9pQDAtZLTbbe-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dm_hwzvT9pQDAtZLTbbe-35" value="диктофон" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="791" y="384" width="120" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
